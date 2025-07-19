@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1440px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+header nav {
+    display: flex;
+    gap: 20px;
+}                                                                                                                                                                                                                                  
+
+
+header nav a {
+    text-decoration: none;
+    color: #353732;
+}
+
+.second-block {
+display: flex;
+justify-content: center; 
+flex-direction: column;
+align-items: center;
+width: 664px;
+}
+
+
+.second-block h2 {
+font-family: Palatino linotype;
+font-weight: 400;
+
+}
