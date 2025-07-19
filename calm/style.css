@@ -21,7 +21,7 @@ header {
 header nav {
     display: flex;
     gap: 20px;
-}                                                                                                                                                                                                                                  
+}
 
 
 header nav a {
@@ -30,16 +30,15 @@ header nav a {
 }
 
 .second-block {
-display: flex;
-justify-content: center; 
-flex-direction: column;
-align-items: center;
-width: 664px;
+    display: flex;
+    flex-direction: column;
+    width: 664px;
+    margin: 0 auto;
 }
 
 
 .second-block h2 {
-font-family: Palatino linotype;
-font-weight: 400;
+    font-family: Palatino linotype;
+    font-weight: 400;
 
 }
